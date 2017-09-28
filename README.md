@@ -1,2 +1,2 @@
-# ASTutorialPt1
-Following the Blog tutorial Part 1, the project should end with there being three TextViews shown horizontally on a Linear Layout Setting
+# ASTutorialPt3
+For some reason, the current project didn't commit how I wanted it to, and so I've had to create a second file. This is for the end of Tutorial Pt3
