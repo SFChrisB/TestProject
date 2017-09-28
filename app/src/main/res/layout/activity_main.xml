@@ -90,7 +90,6 @@
             android:text="@string/TextView2"
             android:background="@color/yellow"
             android:textColor="@color/black"/>
-
         <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
