@@ -99,7 +99,6 @@
             android:text="@string/TextView3"
             android:background="@color/green"
             android:textColor="@color/white"/>
-
     </LinearLayout>
 </LinearLayout>
 
