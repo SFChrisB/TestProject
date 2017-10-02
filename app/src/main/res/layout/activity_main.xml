@@ -13,28 +13,22 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:textSize="18sp"
-        android:text="@string/TextView1"
-        android:background="@color/red"
-        android:textColor="@color/white"/>
+        style="@style/LargeTextView"
+        />
 
     <TextView
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:textSize="15sp"
-        android:text="@string/TextView2"
-        android:background="@color/yellow"
-        android:textColor="@color/black"/>
+        style="@style/MediumTextView"
+        />
 
     <TextView
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:textSize="12sp"
-        android:text="@string/TextView3"
-        android:background="@color/green"
-        android:textColor="@color/white"/>
+        style="@style/SmallTextView"
+        />
 
     </LinearLayout>
     <LinearLayout
@@ -45,28 +39,22 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:textSize="18sp"
-            android:text="@string/TextView1"
-            android:background="@color/red"
-            android:textColor="@color/white"/>
+            style="@style/LargeTextView"
+            />
 
         <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:textSize="15sp"
-            android:text="@string/TextView2"
-            android:background="@color/yellow"
-            android:textColor="@color/black"/>
+            style="@style/MediumTextView"
+            />
 
         <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:textSize="12sp"
-            android:text="@string/TextView3"
-            android:background="@color/green"
-            android:textColor="@color/white"/>
+            style="@style/SmallTextView"
+            />
 
     </LinearLayout>
     <LinearLayout
@@ -77,27 +65,21 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:textSize="18sp"
-            android:text="@string/TextView1"
-            android:background="@color/red"
-            android:textColor="@color/white"/>
+            style="@style/LargeTextView"
+            />
 
         <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:textSize="15sp"
-            android:text="@string/TextView2"
-            android:background="@color/yellow"
-            android:textColor="@color/black"/>
+            style="@style/MediumTextView"
+            />
         <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:textSize="12sp"
-            android:text="@string/TextView3"
-            android:background="@color/green"
-            android:textColor="@color/white"/>
+            style="@style/SmallTextView"
+            />
     </LinearLayout>
 </LinearLayout>
 
